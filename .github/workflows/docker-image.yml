@@ -24,4 +24,4 @@ jobs:
         with:
           context:
           push: true
-          tags: java/javaapp:latest
+          tags: zelouafi/javaapp:latest
